@@ -1,0 +1,1 @@
+python object_detection.py --model=opencv_face_detector_uint8.pb --config=opencv_face_detector.pbtxt --width=300 --height=300
